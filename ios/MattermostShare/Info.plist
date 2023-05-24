@@ -3,7 +3,9 @@
 <plist version="1.0">
 <dict>
 	<key>AppGroupIdentifier</key>
-	<string>group.com.mattermost.rnbeta</string>
+	<string>group.church.christtheking.rnbeta</string>
+	<key>CFBundleIdentifier</key>
+	<string>church.christtheking.rnbeta.MattermostShare</string>
 	<key>NSAppTransportSecurity</key>
 	<dict>
 		<key>NSAllowsArbitraryLoads</key>
